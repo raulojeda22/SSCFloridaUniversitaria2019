@@ -365,34 +365,43 @@
 </tbody>
 </table>
 
+<div class="blog-item-wrap">
+				<a href="https://blogs.florida.es/floridauniversitariatic/2019/02/25/iv-shell-script-challenge-en-florida-universitaria-ssc-2019/" title="IV Shell Script Challenge en Florida Universitària (SSC-2019)">
+							</a>
+		<div class="post-inner-content">
+			<header class="entry-header page-header">
 
-IV Shell Script Challenge en Florida Universitària (SSC-2019)
-25 febrero, 2019	
+<h2 class="entry-title"><a href="https://blogs.florida.es/floridauniversitariatic/2019/02/25/iv-shell-script-challenge-en-florida-universitaria-ssc-2019/" rel="bookmark">IV Shell Script Challenge en Florida Universitària (SSC-2019)</a></h2>
 
-¿Qué es?
-Shell Script Challenge es una competición destinada a alumnos de DAM, DAW, ASIR y TSMR. Durante tres fines de semana, los participantes reciben 3 retos que han de ser resueltos utilizando Shell Scripts.
+<div class="entry-meta">
+<span class="posted-on"><i class="fa fa-calendar"></i> <a href="https://blogs.florida.es/floridauniversitariatic/2019/02/25/iv-shell-script-challenge-en-florida-universitaria-ssc-2019/" rel="bookmark"><time class="entry-date published" datetime="2019-02-25T09:22:55+00:00">25 febrero, 2019</time></a></span><span class="byline"> <i class="fa fa-user"></i> <span class="author vcard"><a class="url fn n" href="https://blogs.florida.es/floridauniversitariatic/author/jmalberolaflorida-uni-es/">jmalberola@florida.local</a></span></span>				<span class="comments-link"><i class="fa fa-comment-o"></i><a href="https://blogs.florida.es/floridauniversitariatic/2019/02/25/iv-shell-script-challenge-en-florida-universitaria-ssc-2019/#respond">Deja un comentario</a></span>
+				
+				
+</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
 
-¿Cómo funciona?
-Durante los días que está activa la competición, los participantes recibirán retos que deberán resolver y entregar antes de la fecha límite indicada para cada reto. Dichos retos serán publicados en este mismo blog en las fechas y horas determinadas. Los retos serán los mismos para todos los participantes y al mismo tiempo sólo se dispondrá de un reto a resolver. Cuando acabe un reto se planteará y publicará otro nuevo.
+<div class="entry-content">
+<p style="text-align: justify"><strong>¿Qué es?</strong><br>
+<strong>Shell Script Challenge</strong> es una competición destinada a alumnos de DAM, DAW, ASIR y TSMR. Durante tres fines de semana, los participantes reciben 3 retos que han de ser resueltos utilizando Shell Scripts.</p>
+<p><strong>¿Cómo funciona?</strong><br>
+Durante los días que está activa la competición, los participantes recibirán retos que deberán resolver y entregar antes de la fecha límite indicada para cada reto. Dichos retos serán publicados en este mismo blog en las fechas y horas determinadas. Los retos serán los mismos para todos los participantes y al mismo tiempo sólo se dispondrá de un reto a resolver. Cuando acabe un reto se planteará y publicará otro nuevo.</p>
+<p><strong>Participación</strong><br>
+La competición está abierta a alumnado de los primeros cursos de las titulaciones de DAM, DAW, ASIR y TSMR de Florida Universitària y de otros centros. La participación es gratuita y sólo será necesario registrarse a través del siguiente <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmUS0P3tgJoDzQkIj8G88xpUR24txqIfN5zEZOFEPxbeLx1g/viewform?usp=sf_link">Formulario de registro</a>. La inscripción estará abierta hasta el 27 de marzo o hasta cubrir el límite de registros, momento en que se cerrará.</p>
+<p>Fechas y desarrollo de los retos:<br>
+1er Reto: Del 29 de marzo (23:00h) al 1 de abril (23:00h)<br>
+2º Reto: Del 5 de abril (23:00h) al 8 de abril (23:00h)<br>
+3º Reto: Del 12 de abril (23:00h) al 15 de abril (23:00h)</p>
+<p><strong>Entrega y valoración</strong><br>
+Los participantes deberán enviar un único fichero con extensión .sh con cada reto resuelto a través del enlace que se proporcionará en cada reto.</p>
+<p>Los retos serán valorados por un comité formado por profesorado de titulaciones TIC que puntuarán cada solución aportada según criterios como: corrección, estilo, identidad propia, rendimiento, u orden de entrega, entre otros. Al acabar la competición se publicará el ranking de los participantes según las puntuaciones obtenidas.</p>
+<p><strong>Premios</strong><br>
+Los tres primeros clasificados recibirán un premio, diploma y reconocimiento público en el acto de clausura y entrega de notas de final de curso. El resto de participantes que terminen los tres retos, recibirán un obsequio.</p>
+<p><strong>Contacto</strong><br>
+Juan Miguel Alberola (jmalberola@florida-uni.es)</p>
 
-Participación
-La competición está abierta a alumnado de los primeros cursos de las titulaciones de DAM, DAW, ASIR y TSMR de Florida Universitària y de otros centros. La participación es gratuita y sólo será necesario registrarse a través del siguiente Formulario de registro. La inscripción estará abierta hasta el 27 de marzo o hasta cubrir el límite de registros, momento en que se cerrará.
-
-Fechas y desarrollo de los retos:
-1er Reto: Del 29 de marzo (23:00h) al 1 de abril (23:00h)
-2º Reto: Del 5 de abril (23:00h) al 8 de abril (23:00h)
-3º Reto: Del 12 de abril (23:00h) al 15 de abril (23:00h)
-
-Entrega y valoración
-Los participantes deberán enviar un único fichero con extensión .sh con cada reto resuelto a través del enlace que se proporcionará en cada reto.
-
-Los retos serán valorados por un comité formado por profesorado de titulaciones TIC que puntuarán cada solución aportada según criterios como: corrección, estilo, identidad propia, rendimiento, u orden de entrega, entre otros. Al acabar la competición se publicará el ranking de los participantes según las puntuaciones obtenidas.
-
-Premios
-Los tres primeros clasificados recibirán un premio, diploma y reconocimiento público en el acto de clausura y entrega de notas de final de curso. El resto de participantes que terminen los tres retos, recibirán un obsequio.
-
-Contacto
-Juan Miguel Alberola (jmalberola@florida-uni.es)
+</div><!-- .entry-content -->
+</div>
+</div>
 
 <div class="blog-item-wrap">
 				<a href="https://blogs.florida.es/floridauniversitariatic/2019/03/29/1er-reto-ssc-2019/" title="1er Reto (SSC 2019)">
