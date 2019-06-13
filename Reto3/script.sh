@@ -1,0 +1,4 @@
+#!/bin/bash
+cat games.csv | cut -d "," -f5,12,15,18,21,24,37,40,43,46,49 | gawk -F "," '{if($1==1) print $2,$3,$4,$5,$6; else print $7,$8,$9,$10,$11}' | gawk '{a[$1][$2]++; a[$1][$3]++; a[$1][$4]++; a[$1][$5]++; a[$2][$1]++; a[$2][$3]++; a[$2][$4]++; a[$2][$5]++; a[$3][$1]++; a[$3][$2]++; a[$3][$4]++; a[$3][$5]++; a[$4][$1]++; a[$4][$2]++; a[$4][$3]++; a[$4][$5]++; a[$5][$1]++; a[$5][$2]++; a[$5][$3]++; a[$5][$4]++;} END {for (i in a) for (j in a[i]) print i, j, a[i][j]}' | sort -nr -t " " -k3 | gawk '{if($1!=prev2 || $2!=prev1 || prev1=="") print $0; prev1=$1; prev2=$2}' | head -n10 | sed 's/ /,/g' > temp.csv
+gawk -F "," 'NR==FNR{a[$1]=$2} NR>FNR{$1=a[$1]; $2=a[$2]; print}' champions.csv temp.csv | tr -d "\015" | sed 's/ /,/g' > result.csv
+rm temp.csv
